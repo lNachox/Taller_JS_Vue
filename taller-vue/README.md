@@ -1,14 +1,18 @@
 # taller-vue
 
-## Project setup
+## Instalar Vue
 ```
-npm install
+npm install -g @vue/cli
 ```
 
-### Compiles and hot-reloads for development
+### Ejecutar el proyecto
 ```
 npm run serve
 ```
+
+
+
+
 
 ### Compiles and minifies for production
 ```
